@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on my Responsive Web Design Certificate from freeCodeCamp.org <-- Nailed It! Now working on some bootcamp prep work before jumping into a bootcamp.  
-- 🌱 I’m currently learning the BASICS of html and css. Dipping my toe into Python & SQL
+- 🔭 I’m currently working on some bootcamp prep work before starting Data Science bootcamp with Flatiron
+- 🌱 I’m currently learning Python 
 - 💬 Ask me about Animal Behavior
 - 📫 How to reach me: text is best
 - 😄 Pronouns: she her
