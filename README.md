@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Animal Behavior
 - 📫 How to reach me: text is best
 - 😄 Pronouns: she her
-- ⚡ Fun fact: Lived most my adult life not realizing I have OCD... that bitch caught up to me tho
+- ⚡ Fun fact: Lived most my adult life not realizing I have OCD... that bubble has been popped and there is no going back
