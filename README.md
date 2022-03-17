@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+#### Here are some things about me:
 
-- 🔭 I’m currently working on some bootcamp prep work before starting Data Science bootcamp with Flatiron
-- 🌱 I’m currently learning Python 
+- 🔭 I’m currently working on data engineering. I am currently a phase_1 student in Flatiron data science flex program. My cohort started March 14th.
+- 🌱 I’m currently learning all about git and github 
 - 💬 Ask me about Animal Behavior
 - 📫 How to reach me: text is best
 - 😄 Pronouns: she her
-- ⚡ Fun fact: Lived most my adult life not realizing I have OCD... that bubble has been popped and there is no going back
+- ⚡ Fun fact: Lived most my adult life not realizing I have OCD... that bubble has been popped.
