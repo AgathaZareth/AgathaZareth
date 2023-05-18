@@ -9,7 +9,7 @@ Former small business owner bringing a unique blend of technical expertise and s
 
 My identity encompasses several dimensions of diversity, including being LGBTQ+, a woman, a mother, Mexican-American, Indigenous-American, and nearing 40. These attributes contribute to my rich perspective and ability to bring valuable insights to the table, enhancing the diversity and inclusivity within any professional environment.
 
-- 🔭 I’m currently working building my resume and jumping into the next chapter of learning.
+- 🔭 I’m currently building my resume and excited about jumping into the next chapter of learning.
 - 🌱 I’m currently learning how to build personal portfolio webpage (HTML/CSS, a little detour but I am liking the outcome)
 - 💬 Ask me about Animal Behavior
 - 📫 How to reach me: text is best
