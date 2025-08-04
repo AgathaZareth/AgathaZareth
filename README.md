@@ -7,7 +7,8 @@ Data science enthusiast with a strong foundation in machine learning and web scr
 
 Former small business owner bringing a unique blend of technical expertise and strong interpersonal skills. Skilled in effectively communicating complex concepts. 
 
-My identity encompasses several dimensions of diversity, including being LGBTQ+, a woman, a mother, Mexican-American, Indigenous-American, and nearing 40. These attributes contribute to my rich perspective and ability to bring valuable insights to the table, enhancing the diversity and inclusivity within any professional environment.
+I am an applied data professional with a foundation in statistical analysis and machine learning. Skilled in designing thoughtful data collection strategies, conducting rigorous analyses, and translating complex information into actionable insights. I’ve always been a builder — someone who engineers elegant, efficient solutions to diverse challenges, whether through code, systems, or community collaboration. With a demonstrated history of optimizing limited resources and navigating complexity with creativity, I bring a resourceful and innovative approach to problem-solving.
+ 
 
 - 🔭 I’m currently building my resume and excited about jumping into the next chapter of learning.
 - 🌱 I’m currently learning how to build personal portfolio webpage (HTML/CSS, a little detour but I am liking the outcome)
